@@ -39,12 +39,16 @@ section {
     text-align: center;
 }
 
-#sobre {
+#importancia {
     background-color: #e6e6e6;
 }
 
-#servicos {
+#tecnicas {
     background-color: #f2f2f2;
+}
+
+#dicas {
+    background-color: #e6e6e6;
 }
 
 footer {
